@@ -47,7 +47,7 @@ Start your bot and you will get your chat ID
 
 **2. Start the KeyLogger :**
 
-Make sure to edit the code -> **Your_telegram_token** and **Chat_id**
+Make sure to edit the code -> **Your_Telegram_Token** and **Your_Chat_ID**
 
 ```bash
 python keylogger_bot.py
@@ -58,6 +58,5 @@ Once the bot is running, you can start a chat with it on Telegram and use the fo
 /start: Initializes the bot and provides usage instructions.
 /key_logger: Starts the keylogger to capture keystrokes.
 /exit: Stops the keylogger and shuts down the bot.
-
 ```
 
