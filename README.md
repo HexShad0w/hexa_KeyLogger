@@ -12,13 +12,13 @@ Hexa Keylogger is a Python-based application that captures keystrokes using the 
 
 ## Installation
 
-# Clone the repository
+## Clone the repository
 
 ```bash
 
 git clone https://github.com/HexShad0w/hexa_KeyLogger.git
 ```
-# Navigate into the project directory
+## Navigate into the project directory
 
 ```bash
 
