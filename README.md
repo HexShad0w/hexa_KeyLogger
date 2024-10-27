@@ -36,7 +36,7 @@ pip install python-telegram-bot pynput
 
 ## Usage 
 
-First you need to get the chat id of your telegram bot : 
+# Get your Chat ID:
 
 ```bash
 
@@ -44,16 +44,19 @@ python3 get_chat_id.py
 ```
 Start your bot and you will get your chat ID
 
-```bash
+# Start the KeyLogger : 
 
+Make sure to edit the code -> Your_telegram_token & Chat_id
+
+```bash
 python keylogger_bot.py
 ```
 Once the bot is running, you can start a chat with it on Telegram and use the following commands:
 
+```bash
 /start: Initializes the bot and provides usage instructions.
 /key_logger: Starts the keylogger to capture keystrokes.
 /exit: Stops the keylogger and shuts down the bot.
 
 ```
-
 
