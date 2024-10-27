@@ -1,7 +1,8 @@
-# Project Title
+# Hexa Keylogger
 
 ## Description
-A brief description of your project goes here. Explain what it does, its purpose, and any important features.
+
+Hexa Keylogger is a Python-based application that captures keystrokes using the `pynput` library and sends them to a specified Telegram chat via the Telegram Bot API. The bot includes command handlers to start and stop the keylogger, allowing for basic interaction through Telegram messages.
 
 ## Features
 
