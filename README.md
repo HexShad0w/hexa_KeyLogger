@@ -36,7 +36,7 @@ pip install python-telegram-bot pynput
 
 ## Usage 
 
-** Get your Chat ID :**
+**Get your Chat ID :** 
 
 ```bash
 
@@ -44,7 +44,7 @@ python3 get_chat_id.py
 ```
 Start your bot and you will get your chat ID
 
-** Start the KeyLogger : **
+**Start the KeyLogger :**
 
 Make sure to edit the code -> **Your_telegram_token** & **Chat_id**
 
