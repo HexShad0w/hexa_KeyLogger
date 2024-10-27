@@ -50,7 +50,7 @@ Start your bot and you will get your chat ID
 Make sure to edit the code -> **Your_Telegram_Token** and **Your_Chat_ID**
 
 ```bash
-python hexa_keylogger.py
+python3 hexa_keylogger.py
 ```
 Once the bot is running, you can start a chat with it on Telegram and use the following commands:
 
